@@ -77,3 +77,4 @@ git add . - для того чтобы добавить фаил в commit
 git commit -m "осмысленный коментария (что именно сделал)" - сформировал commit для отправки в git repositories
 git push -отправка всех commits в git repositories
 git install -для установки зависимостей песле скачиваний проекта из github
+git pull - для вытягивания всех commits (делается в начале работы)
