@@ -73,8 +73,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+установка
+git clone URL - копирования репозитория из открытого терминала и в папку терминала
+git install -для установки зависимостей песле скачиваний проекта из github
+
+добавление изменений в репозиторий
 git add . - для того чтобы добавить фаил в commit
 git commit -m "осмысленный коментария (что именно сделал)" - сформировал commit для отправки в git repositories
 git push -отправка всех commits в git repositories
-git install -для установки зависимостей песле скачиваний проекта из github
+
+Выкочка изменений после изменений на другом рабочем месте
 git pull - для вытягивания всех commits (делается в начале работы)
