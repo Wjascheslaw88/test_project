@@ -75,7 +75,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 установка
 git clone URL - копирования репозитория из открытого терминала и в папку терминала
-git install -для установки зависимостей песле скачиваний проекта из github
+npm install -для установки зависимостей песле скачиваний проекта из github
+npm start - запуск проекта
 
 добавление изменений в репозиторий
 git add . - для того чтобы добавить фаил в commit
