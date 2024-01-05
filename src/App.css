@@ -1,36 +1,11 @@
-.app-wrapper{
-margin: auto;
-display: grid;
-width: 1200px;
-grid-template-areas: 
-"header header"
-"nav content";
-grid-template-rows: 60px 1fr;
-grid-template-columns: 2fr 10fr;
-grid-gap: 10px
-}
-
-.header{
-grid-area: header;
-background-color: rgb(37, 141, 37);
-}
-
-.header img{
-height: 60px;
-width: 60px;
-}
-
-.nav {
-    grid-area: nav;
-    background-color: rgb(43, 81, 151);
-}
-
-.content {
-    grid-area: content;
-    background-color: aqua;
-}
-
-.content img{
-    height: 100%;
-    width: 100%;
+.app-wrapper {
+  margin: auto;
+  display: grid;
+  width: 1200px;
+  grid-template-areas:
+    "header header"
+    "nav content";
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
 }
